@@ -1,0 +1,263 @@
+
+
+.landingPage{
+    position: relative;
+    width: 1728px;
+    height: 1271px;
+    
+    background: #111111;
+}
+
+.recta5{
+    position: absolute;
+width: 1645px;
+height: 135px;
+left: 41px;
+top: 33px;
+
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+
+}
+.emp>p{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.emp{
+    display: flex;
+    flex-flow: row wrap;
+    margin-left: 25px;
+}
+
+.recta4{
+    box-sizing: border-box;
+
+position: absolute;
+width: 506px;
+height: 311px;
+left: 41px;
+top: 197px;
+
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+}
+
+
+.img>img{
+    height: 190px;
+    width: 190px;
+    border-radius: 90px;
+    margin-left: 158px;
+    margin-top: 30px;
+}
+.img{
+    display: flex;
+    flex-flow: column wrap;
+   
+
+}
+.img>p{
+   
+   color: #FFFFFF;
+   margin-left: 200px;
+   
+}
+
+
+
+.recta22{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 500px;
+    height: 355px;
+    left: 47px;
+    top: 537px;
+    
+    background: #111111;
+    border: 2px solid #808080;
+    border-radius: 20px;  
+}
+.ul{
+   display: flex;
+    flex-flow: column wrap;
+    margin-left: 20px;
+    margin-top: 30px;
+    justify-content: space-evenly;
+    /*position: absolute;
+    width: 280px;
+    height: 25px;
+    left: 10px;
+    top: 35px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;*/
+}
+.ul>li{
+    
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+}
+.recta1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 506px;
+height: 306px;
+left: 41px;
+top: 928px;
+
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+}
+.links{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-between;
+}
+.links>p{
+    margin-left: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+.material-icons{
+    margin-left: 20px;
+    color: #808080;
+}
+a{
+    margin-left: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+   text-decoration: none;
+    
+    color: #808080;
+}
+.icon{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: safe;
+}
+.ic{
+    display: flex;
+    flex-flow: row wrap;
+   
+}
+.insta{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: safe;
+    margin-left: 20px;
+}
+.fa {
+background-color: #808080;
+}
+.git{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: safe;
+    margin-left: 20px;
+}
+#bb{
+    margin-left: 30px;
+}
+#cc{
+    margin-left: 30px; 
+}
+
+.recta2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1102px;
+height: 1036px;
+left: 584px;
+top: 197px;
+
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+}
+ .tt{
+    isplay: flex;
+    flex-flow: row wrap;
+    justify-content: safe;
+    margin-left: 20px;
+ }
+ .tt>p{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+text-transform: capitalize;
+
+color: #FFFFFF;
+ }
+
+ .three{
+    box-sizing: border-box;
+color: #FFFFFF;
+width: 1013px;
+height: 874px;
+left: 636px;
+top: 250px;
+
+border: 1px solid #808080;
+border-radius: 20px;
+ }
+ .header{
+    width: 1013px;
+    height: 874px;
+    left: 636px;
+    top: 326px;
+    
+    border: 1px solid #808080;
+    border-radius: 20px;
+ }
+ .header th{
+    width: 1012px;
+height: 60px;
+left: 637px;
+top: 391px;
+
+border: 1px solid #808080;
+}
+
+.header tbody td{
+    border-collapse: collapse;
+    border-left: 1px solid #808080;
+    padding: 20px;
+}
